@@ -26,10 +26,10 @@
 
 `5` - Ardından işlem tamamlanıyor. Github Education'a geçince size mail gelmeyebilir. https://education.github.com/pack websitesini arayla kontrol ediniz.
 
-`6` - Github Education üyesi olup doğrulandıktan sonra *Namecheap*i veya *Name.com*u bulup. *Get access by connecting your GitHub account on Microsoft Azure* yazısına tıklayınız.  
+`6` - Github Education üyesi olup doğrulandıktan sonra *Namecheap*i veya *Name.com*u bulup. *Get access by connecting your GitHub account on Namecheap* yazısına tıklayınız.  
 
 `7` - Ardından *Namecheap/Name.com* hesabınızı Github hesabınızla yetkilendirin. Domain vb. alma kısmı çok basit olduğu için yazmadım isterseniz *Namecheap/Name.com Destek* ile iletişim kurabilirsiniz. 
 
-Microsoft kısmı dışında anlamadığınız bir yer veya herhangi bir sorun olursa discorddan iletişim kurabilirsiniz. 
+Namecheap kısmı dışında anlamadığınız bir yer veya herhangi bir sorun olursa discorddan iletişim kurabilirsiniz. 
 
 https://discord.gg/46UQqaj6ZG
